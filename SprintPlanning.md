@@ -5,6 +5,8 @@
 - What can we do better next sprint: Begin coding!
 - How can we do it better: Focus on a specific user story to begin parsing databases. 
 
-## Future:
+## Future
 - The user story we will focus on for the upcoming sprint is:
 As a researcher, I want to create scripts in Python that can download and analyze missense mutations from online databases, such as the OMIM database, dbSNP database, and HGVbase database, to parse data more efficiently
+- Kimi and Molly will both be working on this user story for this upcoming sprint.
+- New Scrum Master: Kimi
