@@ -8,7 +8,7 @@ def accessOMIM(query):
     #https://api.omim.org/api/entry/search?search=pik3ca&filter=&fields=&retrieve=&start=0&limit=10&sort=&operator=&include=allelicVariantList&include=clinicalSynopsis&format=json
     filters = '&filter=&fields=&retrieve=&start=0&limit=10&sort=&operator=&include=allelicVariantList&include=clinicalSynopsis&format=json' 
     apikey = '&apiKey=gZuFDYrRTlKEPLkePeEBog'
-    final_url = url + filters + apikey
+    final_url = url + gene + filters + apikey
     json_obj = urllib2.urlopen(final_url)
     data = json.load(json_obj)
     print data
