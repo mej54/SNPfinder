@@ -21,7 +21,6 @@ As a researcher, I want to create scripts in Python that can download and analyz
 - How can we do it better: Learn how to incorporate our python code into a web interface. 
 
 ## Future
-- The user story we will focus on for the upcoming sprint is: 
-
+- The user story we will focus on for the upcoming sprint is: As a researcher, I want to create scripts in Python that can use PDB API to find the closest structure of a given protein sequence so that this can be used in the visualization.
 - Kimi and Molly will both be working on this user story for this upcoming sprint. 
 - New Scrum Master: Molly
