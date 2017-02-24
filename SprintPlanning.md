@@ -24,3 +24,17 @@ As a researcher, I want to create scripts in Python that can download and analyz
 - The user story we will focus on for the upcoming sprint is: As a researcher, I want to create scripts in Python that can use PDB API to find the closest structure of a given protein sequence so that this can be used in the visualization.
 - Kimi and Molly will both be working on this user story for this upcoming sprint. 
 - New Scrum Master: Molly
+
+
+
+# Sprint 3
+
+- What went well: We were able to create a python script that accesses the PDB database to retrieve a visualization of the requested protein/gene. We also learned how to embed a general visualization of a protein using 3Dmol in our own HTML file. 
+- What did not go well: We cannot figure out how to connect out current python script to accept/return javascript input.
+- What can we do better next sprint: We are going to focus on more online tutorials so that we can better understand how to connect javascript/PHP/python scripts. 
+- How can we do it better: Take the time to learn the functionalities of the languages. 
+
+## Future
+- The user story we will focus on for the upcoming sprint is: As a researcher, I want to have a website to view the mapped mutation protein visualizations so that it is more easily accessible for me and other researchers. 
+- Kimi and Molly will both be working on this user story for this upcoming sprint.
+- New Scrum Master: Kimi
