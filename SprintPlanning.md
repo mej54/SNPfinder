@@ -12,7 +12,6 @@ As a researcher, I want to create scripts in Python that can download and analyz
 - New Scrum Master: Kimi
 
 
-
 # Sprint 2
 
 - What went well: We were able to access the OMIM database and parse the multitude of data to retrieve information on mutations/disease by entering gene names via command-line. 
@@ -26,7 +25,6 @@ As a researcher, I want to create scripts in Python that can download and analyz
 - New Scrum Master: Molly
 
 
-
 # Sprint 3
 
 - What went well: We were able to create a python script that accesses the PDB database to retrieve a visualization of the requested protein/gene. We also learned how to embed a general visualization of a protein using 3Dmol in our own HTML file. 
@@ -38,3 +36,27 @@ As a researcher, I want to create scripts in Python that can download and analyz
 - The user story we will focus on for the upcoming sprint is: As a researcher, I want to have a website to view the mapped mutation protein visualizations so that it is more easily accessible for me and other researchers. 
 - Kimi and Molly will both be working on this user story for this upcoming sprint.
 - New Scrum Master: Kimi
+
+
+# Sprint 4
+
+- What went well: We were able to create a webite that utilizes 3dmol to view a protein of interest.
+- What did not go well: We cannot dynamically change the embedded 3dmol visualization to view different pdb files.
+- What can we do better next sprint: We are going to read the API for 3dmol to figure out how we can dynamically change the visualization.
+- How can we do it better: Do more reading.
+
+## Future
+- The user story we will focus on for the upcoming sprint is: 
+- Kimi and Molly will both be working on this user story for this upcoming sprint.
+- New Scrum Master: Molly
+
+
+# Sprint 5
+
+- What went well: We found a way around the dynamic programming by creating multiple html pages. We also have now visualizations for choosing different pdb files and for viewing the mutations/disease with the protein.
+- What did not go well: Not being able to use the API and the visualization for the mutations is messy as of now. 
+- What can we do better next sprint: We will work on the aesthetics of the website, and try to highlight the mutations on the protein dynamically. 
+- How can we do it better: Look into using iFrame. 
+
+## Future
+
